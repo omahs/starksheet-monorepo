@@ -8,7 +8,7 @@ would need to remove them tbh 😇).
 
 The project uses plain python for compiling, testing and deploying the
 contracts. The project uses [poetry](https://python-poetry.org/) for
-dependencies management. Installation should be as straight forward as:
+dependencies management. Installation should be as straightforward as:
 
 ```bash
 poetry install
